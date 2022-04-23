@@ -74,3 +74,11 @@ footer {
     padding-top: 15px;
     font-weight: 600;
 }
+
+@media (max-width:555px) {
+
+    h1 {
+        font-size: 6rem;
+    }
+
+}
